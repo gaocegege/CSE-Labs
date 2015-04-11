@@ -6,4 +6,4 @@
 
 # Notice
 
-听说Lab2我的做法有问题
+听说Lab2我的做法有问题，各位如果发现了请pull request给我~谢谢~
